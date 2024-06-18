@@ -13,7 +13,7 @@ import Jewelery from './Main Page/Jewelery';
 import { useEffect,useState } from 'react';
 
 
-import Landing from './LandingPage/Landing';
+
 import MainPage from './Main Page/MainPage';
 import SingleElect from './Singles/SingleElect';
 import UserCart from './Cart/UserCart';
@@ -53,16 +53,28 @@ useEffect(() => {
 
 return (
     <>
+
+    
+
+
+
+   
      <CartProvider>
+   
+
+    
 
     <BrowserRouter>
+    
 
     <Routes>
+  
+   
       
 
       
 
-    <Route path="/landing" element ={<Landing/>} />
+     {/* <Route path="/landing" element ={<Landing/>} />  */}
 
 
     <Route path="/main"  element={<MainPage data={data}/>}/>
