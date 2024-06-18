@@ -1,0 +1,275 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+.Main-div{
+  background-color: azure;
+
+  width:100%;
+  
+
+  background-image: url("C:\Users\venkat\Desktop\pho\front-view-cyber-monday-composition.jpg");
+
+  
+
+  padding: 10px;
+  height:100vh;
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center;
+  
+  
+
+
+}
+
+ul{
+  list-style-type: none;
+  font-size:larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color:black;
+  margin-top: 10px;
+ 
+}
+
+.Landing-div{
+
+
+  width:50%;
+
+ 
+  /* border:1px black solid; */
+
+  padding:30px;
+
+  margin:auto;
+
+  margin-right: 80px;
+
+  margin-top:50px;
+  color:white; 
+  
+
+  font-size:x-large;
+
+  font-weight: bold;
+
+  
+
+}
+
+.nav-div{
+  border:1px solid black;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  padding:5px;
+  color:black;
+  background-color: aliceblue;
+
+  
+}
+
+.Mainpage-container{
+
+  background-color: rgb(214, 226, 201);
+
+  width: 100%;
+
+  height: 100vh;
+
+
+}
+
+.products-list{
+
+  color:white;
+  background-color: rgb(101, 134, 123);
+
+  padding: 10px;
+  margin-top:10px;
+  border-radius: 10px;
+
+}
+
+li{
+  list-style-type: none;
+}
+
+
+
+
+
+.menClothings-div{
+
+width:400px;
+background-color:aliceblue;
+border-radius: 20px;
+padding:10px;
+margin: 10px;
+text-align: center;
+margin-left: 5px;
+}
+
+
+.mencothing-img{
+
+  border-radius: 10px;
+  margin:8px;
+
+}
+
+
+.items-div{
+
+  background-color: azure;
+
+  padding:20px
+}
+
+
+
+.Mainpage-div{
+
+  width:100%;
+  height:100%;
+
+  background-color:aliceblue;
+  padding:10px;
+}
+
+
+.categories{
+
+  background-color:white;
+
+  padding:15px;
+
+  font-size: larger;
+  font-weight: bold;
+  text-decoration: none;
+  margin:10px;
+
+
+
+
+}
+
+
+
+.Mens-div{
+
+  padding: 10px;
+
+  
+
+  
+
+
+
+
+
+}
+
+
+.mensub-div{
+
+  background-color:white;
+
+  margin: 10px;
+  padding: 15px;
+
+  border-radius: 20px;
+  
+}
+
+
+.single-div{
+
+  width:70%;
+  background-color: aliceblue;
+
+  height:70%;
+  padding: 40px;
+
+  margin:auto;
+
+  margin-top:20px;
+
+  border-radius: 30px;
+}
+
+
+.spann{
+
+  color:brown;
+}
+
+
+.Cart-maindiv{
+
+  background-color: bisque;
+
+  width:100%;
+  text-align: center;
+  
+  padding: 20px;
+  height:100%;
+
+
+
+ 
+
+}
+
+.Cart-div{
+
+
+  width:50%;
+  
+
+  background-color: beige;
+
+
+  border:1px solid black;
+  
+  margin: auto;
+  border-radius: 25px;
+  padding: 10px;
+
+
+  
+ 
+
+
+ 
+}
+
+
+.link{
+  text-decoration: none;
+  color: black;
+}
+
+.h22{
+  text-decoration: underline;
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style:italic;
+
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+  
+  
+
+
